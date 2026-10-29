@@ -17,3 +17,5 @@ include:
     shield: kyria_rev3_left
   - board: sparkfun_pro_micro_rp2040//zmk
     shield: kyria_rev3_right
+  - board: sparkfun_pro_micro_rp2040//zmk
+    shield: settings_reset
